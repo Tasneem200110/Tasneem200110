@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Tasneem Mostafa 👋
 
-<!--
-**Tasneem200110/Tasneem200110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MIS Graduate | 💻 Full Stack .NET Developer | 🌍 Passionate about tech & design
 
-Here are some ideas to get you started:
+🚀 I’ve built:
+- 🛒 E-commerce platform (ASP.NET API)
+- 🧾 CRUD Employee Management System (ASP.NET MVC)
+- 🏕️ Camp & Entertainment Booking Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:
+- C#, ASP.NET MVC/API, Entity Framework
+- SQL Server, HTML, CSS, JavaScript
+- Vue.js, Angular
+
+📫 Contact me:
+📧 tasneemmostafa200110@gmail.com
+📍 Giza, Egypt
+
